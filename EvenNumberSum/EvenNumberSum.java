@@ -37,3 +37,4 @@ public class EvenNumberSum
          scan.close();
     }
 }
+
